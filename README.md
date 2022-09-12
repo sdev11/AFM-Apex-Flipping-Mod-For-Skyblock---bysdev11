@@ -3,4 +3,4 @@ run `/afm start` to initialize the mod. msg me with any suggestions.
 troubleshoot run `/afm help`
 
 TO OPEN MENU RUN `/afm`
-^ Customize blacklist, profit percentage, whitelist, volume and more.
+to Customize blacklist, profit percentage, whitelist, volume and more.
